@@ -1,5 +1,17 @@
 # pet-calculator
 
+### Описание:
+Учебный проект калькулятор. 
+
+#### Функционал: 
+* сложение 
+* умножение
+* вычитание
+* деление
+* отчищение
+
+![](/src//assets/preview.gif)
+
 ## Project setup
 ```
 npm install
@@ -9,11 +21,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
